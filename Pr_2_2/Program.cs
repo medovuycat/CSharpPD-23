@@ -37,7 +37,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Трикутник різносторонній.");
+            Console.WriteLine("Трикутник різносторонній");
         }
     }
 
