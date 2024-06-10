@@ -1,0 +1,14 @@
+C:\Users\medov\source\repos\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.exe
+C:\Users\medov\source\repos\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.deps.json
+C:\Users\medov\source\repos\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.runtimeconfig.json
+C:\Users\medov\source\repos\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.dll
+C:\Users\medov\source\repos\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.pdb
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.AssemblyInfoInputs.cache
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.AssemblyInfo.cs
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.csproj.CoreCompileInputs.cache
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.dll
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\refint\Pr_4.dll
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.pdb
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.genruntimeconfig.cache
+C:\Users\medov\source\repos\Pr_4\Pr_4\obj\Debug\net8.0\ref\Pr_4.dll
