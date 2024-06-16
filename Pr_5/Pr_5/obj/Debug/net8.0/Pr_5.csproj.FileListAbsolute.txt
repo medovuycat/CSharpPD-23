@@ -1,0 +1,14 @@
+C:\Users\medov\source\repos\Pr_5\Pr_5\obj\Debug\net8.0\Pr_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medov\source\repos\Pr_5\Pr_5\obj\Debug\net8.0\Pr_5.AssemblyInfoInputs.cache
+C:\Users\medov\source\repos\Pr_5\Pr_5\obj\Debug\net8.0\Pr_5.AssemblyInfo.cs
+C:\Users\medov\source\repos\Pr_5\Pr_5\obj\Debug\net8.0\Pr_5.csproj.CoreCompileInputs.cache
+C:\Users\medov\source\repos\PR_5\PR_5\bin\Debug\net8.0\PR_5.exe
+C:\Users\medov\source\repos\PR_5\PR_5\bin\Debug\net8.0\PR_5.deps.json
+C:\Users\medov\source\repos\PR_5\PR_5\bin\Debug\net8.0\PR_5.runtimeconfig.json
+C:\Users\medov\source\repos\PR_5\PR_5\bin\Debug\net8.0\PR_5.dll
+C:\Users\medov\source\repos\PR_5\PR_5\bin\Debug\net8.0\PR_5.pdb
+C:\Users\medov\source\repos\PR_5\PR_5\obj\Debug\net8.0\PR_5.dll
+C:\Users\medov\source\repos\PR_5\PR_5\obj\Debug\net8.0\refint\PR_5.dll
+C:\Users\medov\source\repos\PR_5\PR_5\obj\Debug\net8.0\PR_5.pdb
+C:\Users\medov\source\repos\PR_5\PR_5\obj\Debug\net8.0\PR_5.genruntimeconfig.cache
+C:\Users\medov\source\repos\PR_5\PR_5\obj\Debug\net8.0\ref\PR_5.dll
